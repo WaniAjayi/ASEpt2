@@ -1,0 +1,17 @@
+C:\Users\folua\source\repos\ASE\WinFormsApp2\bin\Debug\net6.0-windows\ASE.exe
+C:\Users\folua\source\repos\ASE\WinFormsApp2\bin\Debug\net6.0-windows\ASE.deps.json
+C:\Users\folua\source\repos\ASE\WinFormsApp2\bin\Debug\net6.0-windows\ASE.runtimeconfig.json
+C:\Users\folua\source\repos\ASE\WinFormsApp2\bin\Debug\net6.0-windows\ASE.dll
+C:\Users\folua\source\repos\ASE\WinFormsApp2\bin\Debug\net6.0-windows\ASE.pdb
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.Properties.Resources.resources
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.csproj.GenerateResource.cache
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.AssemblyInfoInputs.cache
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.AssemblyInfo.cs
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.csproj.CoreCompileInputs.cache
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.dll
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\refint\ASE.dll
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.pdb
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ASE.genruntimeconfig.cache
+C:\Users\folua\source\repos\ASE\WinFormsApp2\obj\Debug\net6.0-windows\ref\ASE.dll
